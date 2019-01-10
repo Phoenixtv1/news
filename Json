@@ -36,7 +36,7 @@
       "ID":"7",
       "IMPORTANT":true,
       "TITLE":"Changelog 1.0.4",
-      "CONTENT":"Change all the API and Update couple of providers\r\nCouple of customizations to exoplayer\r\n\r\nWhole new look\r\n\r\n\rAdded a New HD Release and a Tv Calendar\r\n\r\n\rChange cast id app to a private one\r\n\r\n\r\nFix a bug with the default player\r\n\r\n\r\n\rFlixinaty provider for movies was fix and tv calendar for only your tv shows it is still in beta\r\n"
+      "CONTENT":"Fix a bug with the default player\r\n\rFlixinaty provider for movies was fix and tv calendar for only your tv shows it is still in beta\r\n\r\n"
       
       
       "
