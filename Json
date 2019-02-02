@@ -5,7 +5,13 @@
       "ID":"1",
       "IMPORTANT":false,
       "TITLE":"Disclaimer",
-      "CONTENT":"The author does not host or upload any of the content of the app. \r\n\r\nAll content is retrieved from third-party websites like Trakt.tv, TMDB, Imdb,Openload, Streamango, Google, TheVideo, Vidup, Vidoza, etc..\r\n\r\nThe author does not have any affiliation with the content providers and is not responsible for the content they provide.\r\n\r\nTo know more about the app, check the \"Information\" section on the main menu.\r\n"    
+      "CONTENT":"The author does not host or upload any of the content of the app. \r\n\r\nAll content is retrieved from third-party websites like Trakt.tv, TMDB, Imdb,Openload, Streamango, Google, TheVideo, Vidup, Vidoza, etc..\r\n\r\nThe author does not have any affiliation with the content providers and is not responsible for the content they provide.\r\n\r\nTo know more about the app, check the \"Information\" section on the main menu.\r\n" 
+    },
+    {
+      "ID":"6",
+      "IMPORTANT":false,
+      "TITLE":"Official Download",
+      "CONTENT":"Filelinked 64262072"
     },
     {
       "ID":"2",
