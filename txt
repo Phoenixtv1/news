@@ -5,8 +5,8 @@ api.ocloud.stream
 api.thetvdb.com
 gorillavid.in
 thevideo.me
-thevideo.me
 www.vidics.to
 www6.putlockertv.to
 gounlimited.com
 vidzi.tv
+estream.to
